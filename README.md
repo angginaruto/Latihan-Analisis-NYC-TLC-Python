@@ -1,11 +1,11 @@
-# 🚕 Analisis Data Taksi NYC (NYC TLC Trip Record)
+# Analisis Data Taksi NYC (NYC TLC Trip Record)
 
 Proyek ini berfokus pada eksplorasi dan analisis data perjalanan taksi di New York City menggunakan Python.  
 Tujuannya adalah untuk memahami pola perjalanan, mendeteksi outlier, dan menyiapkan data agar siap digunakan untuk analisis lanjutan seperti prediksi atau machine learning.
 
 ---
 
-## 📦 Dataset
+## Dataset
 Dataset yang digunakan adalah **NYC TLC Trip Record**, yang berisi informasi mengenai:
 - Waktu pengambilan dan penurunan penumpang  
 - Jarak perjalanan  
@@ -14,7 +14,7 @@ Dataset yang digunakan adalah **NYC TLC Trip Record**, yang berisi informasi men
 
 ---
 
-## ⚙️ Tahapan Analisis
+## Tahapan Analisis
 
 ### 1. Pemeriksaan Nilai Hilang (Missing Values)
 Menelusuri nilai **NaN** di kolom penting seperti:
@@ -42,7 +42,7 @@ Melakukan uji coba terhadap distribusi pendapatan dan menghitung peluang rata-ra
 
 ---
 
-## 🧰 Tools dan Library
+## Tools dan Library
 - **Python 3.x**
 - **Pandas** untuk pembersihan dan manipulasi data  
 - **NumPy** untuk perhitungan numerik  
