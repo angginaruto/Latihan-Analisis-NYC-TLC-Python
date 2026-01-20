@@ -50,9 +50,3 @@ Melakukan uji coba terhadap distribusi pendapatan dan menghitung peluang rata-ra
 - **Jupyter Notebook** untuk dokumentasi analisis
 
 ---
-
-## 🚀 Cara Menjalankan
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/NYC_TLC_Trip_Record.git
-   cd NYC_TLC_Trip_Record
